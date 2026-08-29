@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5063/api/Tools";
+const API_URL = "https://project-webdevelopment-efe.onrender.com";
 let currentUser = JSON.parse(localStorage.getItem("waslaUser")) || null;
 let activeHistoryTab = 'myLentTools';
 
