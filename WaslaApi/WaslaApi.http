@@ -1,0 +1,6 @@
+@WaslaApi_HostAddress = http://localhost:5063
+
+GET {{WaslaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
